@@ -1,3 +1,2 @@
-Code for demo/tutorial: Jenkins+Git+Go+K8s 
 
-Link to YT video soon...
+Demo for a continuous CICD pipeline with Jenkins+Git+Go+K8s 
